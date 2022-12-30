@@ -1,0 +1,63 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+anontier.nl Canary and Transparency Report #15
+
+Unix Time: 1633986875
+UTC time: Mon October 11 2021 21:14:35
+
+This letter is digitally signed Mon, October 11, 2021 (UTC).
+
+
+This message is signed with the PGP key created April 22nd, 2021, when anontier.nl launched.  
+
+PGP Fingerprint: 9BC9 8B78 13F8 C45F 3C3F A7AE 4B00 DD6D CA18 23D6.  
+
+You are encouraged to save this public key. https://anontier.nl/pgp.txt 
+
+Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
+
+An archive of reports is available at: https://anontier.nl/archive.html
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+Since the creation of anontier, we have received the following:
+
+Number of court orders: 0
+Number of legal copyright-related complaints: 0
+Number of law enforcement requests or demands: 0
+Amount of information shared with a third-party: 0
+Number of known security breaches, including data leaks, of user data: 0
+
+Since the last canary, have the above numbers changed? No
+
+There has never been a National Security Letter or gag-order sent to anontier.nl. Nor is there anything important otherwise that anontier is being prevented from mentioning.
+
+
+New Updates: 
+Nothing new
+
+
+Donate with Monero and help keep anontier running: 8AuvnRiD9k2CYK2ZVkc1CDZF6VbKbRe5TUj3sywytLVH2yLV3w7U8DVJPnyu7FEWNHK2Zgi3157QPh2oyK3zZj4ZLXXAoY3
+
+Stats:
+Our Matrix server is currently using 428 GB of space total, including media, databases, and all other files including the OS.
+There are currently 1,152 activated accounts.
+
+Contact @bosscat:anontier.nl on Matrix for any questions related to this report.
+
+Latest block: https://www.blockchain.com/btc/block/0000000000000000000129a42cb3baca7227003682650d07e8c2395e51350802
+-----BEGIN PGP SIGNATURE-----
+
+iQHMBAEBCAA2FiEEm8mLeBP4xF88P6euSwDdbcoYI9YFAmFkqkYYHGFub250aWVy
+QHByb3Rvbm1haWwuY29tAAoJEEsA3W3KGCPW46sMAKKAUqhE/oXlcZFdt619IUK3
+uTyGwNWvECrbT75bLm5vJ9hN7P6PIi6aBunLf3q3xlIlnJr0EgZdnz9r6GWWTaiQ
+kDML5mDBxLC4Zk9wuTTifuGjhApw+gzoFMbv2aY9pChD8SxYEcSQh0XznXOo7Rkl
+RzdSEBjs+vUeZDMMghFHCe4HlQyOTrpTKX/lHEFHXDlJcFo+6iHIHIxn7nxlEN55
+XIgMFRl5g/xAWXrnu6HoojFnUnkt19jjj+is2h6MpIa+lImSbrO0lDDR/n9KetIC
+wTQuIIs3tQ49dU6JYT9hWvjyjClfvANQJWumEcSmj/rybH3+06r8ZBZH77TMlyFJ
++r6qguk2ztAHc1a2E3ZJIf4TQ7TQGJCqkAdSX8CLrwA1nuE1TyG/ULjO4rqj8bLk
+v0O9ZC0MtQkJPtJhSgq+0uWKZ3TDkLEiv5mTlS0JX7WDjOhHf4YLJVkyYTV1qo2l
+AkZtdRM8Q5HPVu/8otTuW15MqmTCP7tSZGcQ7OMUsQ==
+=CeVn
+-----END PGP SIGNATURE-----

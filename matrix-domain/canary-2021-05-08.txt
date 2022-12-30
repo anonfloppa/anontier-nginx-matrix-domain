@@ -1,0 +1,64 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+anontier.nl Canary and Transparency Report #2
+
+UTC Time: Sat May 08 2021 03:24:04 AM
+Unix time: 1620444244
+
+This letter is digitally signed Saturday, May 8, 2021 (UTC).
+
+This message is signed with the PGP key created April 22nd, 2021, when anontier.nl launched.  
+
+PGP Fingerprint: 9BC9 8B78 13F8 C45F 3C3F A7AE 4B00 DD6D CA18 23D6.  
+
+You are encouraged to save this public key. https://anontier.nl/pgp.txt 
+
+Roughly every 72 hours, a new Transparency report will be created. If it has been more than 140 hours since the last signed message, unless otherwise noted, you should assume something is wrong. 
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+Since the creation of anontier.nl, 
+
+1) There have been no court orders given to anontier.nl.
+
+2) There have been no legal copyright-related complaints. 
+
+3) There have been no requests for any user information, legally valid or invalid.
+
+4) There have been no takedown requests of any account, or any encrypted or unencrypted content.
+
+5) There have been no known security breaches or data leaks of anyone's information, legal or not.
+
+6) There has not been anything noteworthy not covered here that anontier.nl is not able to mention. 
+
+7) Warrant Canary: There have been no National Security Letters or gag-orders sent to anontier.nl. 
+
+
+New Updates:
+Nothing
+
+
+Donate with Monero and help keep anontier running: 43oT9FXujWHFqiWYzavqf6FS5KB5TGEkDPGj2nKMD7vm6zNTuLRkTSmLSUAjEL9nmLPsSvZtyuP68cmKoCAByce45AeH5oF
+
+
+Stats:
+Our Matrix server is currently using 16GB of space total, including media, databases, and all other files including the OS.
+
+Contact @bosscat:anontier.nl on Matrix for any questions related to this report.
+
+Latest block: https://www.blockchain.com/btc/block/00000000000000000007e70fe4af876da9444d3ae9c3283ef859fc1d0cdf9417
+-----BEGIN PGP SIGNATURE-----
+
+iQHMBAEBCgA2FiEEm8mLeBP4xF88P6euSwDdbcoYI9YFAmCWBQoYHGFub250aWVy
+QHByb3Rvbm1haWwuY29tAAoJEEsA3W3KGCPWr/UL/3DeNL8s+yNTK9UuLTo/aWr9
+bWIuwWwegytg2FluwPf6O9Zne5H1kz5Z1sU/Eiq98TiEGEMZmabHwwHCXSGJVltC
+aDNa2wg+BfQfYTMJl1QfKXiDqBCI3nZwp7Lhb/FE6hJF0R26NZqYmO0ReXXMUgsN
+MeRNZrXTl7kWl1Y8IYxxqhEVe4E4OqRg2khOvI6/QwY+0O2oHBFgSxDwd/Dq76Lb
+8g7ON54gup7o7mXAOp3EyaszZ98E20nq+s5Ji4vlNx+bYhwGYlYs6OYWM+CFDEE8
+bzqeP7c9TLKA6y/2yIyvGBRSjiMbh/to1vXhxdEZRlcG0KYTSBJRDkX0u3Ie+t7E
+GYdswjCYh0BKYPbIBKpugMQhCpyuS+8dp3Xr47lFM1w/YpHF0iYLcOHauEMJEMtg
+f8u3eZkIfjRHEAeyQPZo8VlVJ+MUWnZuARflRpgkI4tFyNYmp2jHxgvKLVBxhA2C
+m27Hex0NGNzemwW7o+q2yRZzDlX7I/uDQG2BxkfOvA==
+=JP6T
+-----END PGP SIGNATURE-----

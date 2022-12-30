@@ -1,0 +1,66 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+anontier.nl Canary and Transparency Report #11
+
+Unix Time: 1627611108
+UTC time: Fri July 30 2021 02:11:48
+
+This letter is digitally signed Fri, July 30, 2021 (UTC).
+
+
+This message is signed with the PGP key created April 22nd, 2021, when anontier.nl launched.  
+
+PGP Fingerprint: 9BC9 8B78 13F8 C45F 3C3F A7AE 4B00 DD6D CA18 23D6.  
+
+You are encouraged to save this public key. https://anontier.nl/pgp.txt 
+
+Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
+
+An archive of reports is available at: https://anontier.nl/archive.html
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+Since the creation of anontier.nl, 
+
+1) There have been no court orders given to anontier.nl.
+
+2) There have been no legal copyright-related complaints. 
+
+3) There have been no requests for any user information, legally valid or invalid.
+
+4) There have been no law enforcement takedown requests of any account, or any encrypted or unencrypted content.
+
+5) There have been no known security breaches or data leaks of anyone's information, legal or not.
+
+6) There has not been anything noteworthy not covered here that anontier.nl is not able to mention. 
+
+7) Warrant Canary: There have been no National Security Letters or gag-orders sent to anontier.nl. 
+
+
+New Updates: 
+There was flooding over the weekend when an attacker created over 11,000 accounts. A brief pause on new registrations and then rate limitations were put in place in response. The accounts were deactivated. 
+
+Donate with Monero and help keep anontier running: 43oT9FXujWHFqiWYzavqf6FS5KB5TGEkDPGj2nKMD7vm6zNTuLRkTSmLSUAjEL9nmLPsSvZtyuP68cmKoCAByce45AeH5oF
+
+Stats:
+Our Matrix server is currently using 120 GB of space total, including media, databases, and all other files including the OS.
+There are currently 450 active user accounts.
+
+Contact @bosscat:anontier.nl on Matrix for any questions related to this report.
+
+Latest block: https://www.blockchain.com/btc/block/0000000000000000000f8c69e4740b74eebb5931ecc347335cb5700a919cdc37
+-----BEGIN PGP SIGNATURE-----
+
+iQHMBAEBCgA2FiEEm8mLeBP4xF88P6euSwDdbcoYI9YFAmEDYscYHGFub250aWVy
+QHByb3Rvbm1haWwuY29tAAoJEEsA3W3KGCPWfewL/0PD/GatToD3aWtSmw0nNWe1
+AuVsGEeKwq34OUDvObsz0HPauKgfbQ8hmdanU6Dm1NpTeBR+4OPMhq5ZuwN5D96Y
+e+X1ykiNULmLww5Tnd8TnQRaXMYUDwpUWOmv2ttlzW2167/1UtX9ocllhspjK6Gq
+YDGvwkbJoQSptwqGr9+DNhG0xnDE4q9A0uvJe6TCSs+HmJ43stjssSQ1JPccmnWM
+HvwYXY1SG6ZrS4ZZsnfSluPxWumRve/iiy6fl2+i5WtgV3ge3eUgekB0LCikx6EP
+Nk/wJWy4mfatWbZ82jYeHYGpXXa5mtFsRAYd/bTGiu+sYZPoxHgD6Y/vlQe+nF7a
+poIctVY205S86jrH+52qSOEzYrjHimsWOVDjEiO8zXqDLYLOCaRpUNi0OEe5Oqgi
+peI1Eb4/ElZcQTQXu0Apg8tg4X9NJZaLYIeTTU+Pm2vmz7C564k74XKtn1vcRB87
+TRHfWvOP2OVP4PWJ9P0Tu5GNp7gncV8vcxCvL9d4rA==
+=9gQd
+-----END PGP SIGNATURE-----

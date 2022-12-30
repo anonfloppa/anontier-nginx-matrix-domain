@@ -1,0 +1,66 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+anontier.nl Canary and Transparency Report #6
+
+Unix Time: 1622607018
+UTC time: Wed June 02 2021 04:10:18
+
+This letter is digitally signed Wed, June 02, 2021 (UTC).
+
+
+This message is signed with the PGP key created April 22nd, 2021, when anontier.nl launched.  
+
+PGP Fingerprint: 9BC9 8B78 13F8 C45F 3C3F A7AE 4B00 DD6D CA18 23D6.  
+
+You are encouraged to save this public key. https://anontier.nl/pgp.txt 
+
+Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
+
+An archive of reports is available at: https://anontier.nl/archive.html
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+Since the creation of anontier.nl, 
+
+1) There have been no court orders given to anontier.nl.
+
+2) There have been no legal copyright-related complaints. 
+
+3) There have been no requests for any user information, legally valid or invalid.
+
+4) There have been no law enforcement takedown requests of any account, or any encrypted or unencrypted content.
+
+5) There have been no known security breaches or data leaks of anyone's information, legal or not.
+
+6) There has not been anything noteworthy not covered here that anontier.nl is not able to mention. 
+
+7) Warrant Canary: There have been no National Security Letters or gag-orders sent to anontier.nl. 
+
+
+New Updates: 
+After my test last canary, I have decided to make reports or canaries a weekly thing instead of every 72 hours.
+
+
+Donate with Monero and help keep anontier running: 43oT9FXujWHFqiWYzavqf6FS5KB5TGEkDPGj2nKMD7vm6zNTuLRkTSmLSUAjEL9nmLPsSvZtyuP68cmKoCAByce45AeH5oF
+
+Stats:
+Our Matrix server is currently using 41 GB of space total, including media, databases, and all other files including the OS.
+
+Contact @bosscat:anontier.nl on Matrix for any questions related to this report.
+
+Latest block: https://www.blockchain.com/btc/block/00000000000000000007c76f37a84cc13b944fcae14bab3e87ddaec3e8d69ea5
+-----BEGIN PGP SIGNATURE-----
+
+iQHMBAEBCgA2FiEEm8mLeBP4xF88P6euSwDdbcoYI9YFAmC3Bp0YHGFub250aWVy
+QHByb3Rvbm1haWwuY29tAAoJEEsA3W3KGCPW5zQMAJLjuqAWPtRMUKFH2JSBmLu+
+0/WyfBNFwfRxuHKRSfLPMXDUDV2FPkQ2ZS8osHWu2ROF2jSoQrNVhQiGCML0WLmI
+i8dK9KjjZ7WJs0cLF7amChoYkdzUs5Xw249U/BX3jzz8g4t4BTwZdwMqZl6T/Obj
+B5JqQ+2IlRRJzX+s35lezMomBRTxIfHIPUeOc3s2o5mMetdMf+r6kc/imjTHbOI+
+MVT/yaQjWQ48LnXcqqaUvOr8wYoLZ7aEQ3QXHBmTlrWFe3vsUtB4/8YeoZmri98G
++Z9FvG6cTLDVVIJjN+8IRtNOXUK+RikiV0hRdsXy0CmQoxzXZF6WvSGezgNZf1Hf
+t+TuEG5meXOU0qdESc4Zo3P+ANM0lzSm8q9QuOoq6OIpGaySIFf19liny9Le/un0
+IRCbmnTitBBCHrIZd592ch6B7YOO3lf/lgeLx1Um84dfyeE7bRWrQVIBijcmb/O3
+9I+nMVmtZhvGiYBRTGgRu33XtHb5W/JARP/qe6QmpQ==
+=6aJ/
+-----END PGP SIGNATURE-----

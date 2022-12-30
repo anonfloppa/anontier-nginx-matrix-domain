@@ -1,0 +1,66 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+anontier.nl Canary and Transparency Report #8
+
+Unix Time: 1624131371
+UTC time: Sat June 19 2021 19:36:11
+
+This letter is digitally signed Sat, June 19, 2021 (UTC).
+
+
+This message is signed with the PGP key created April 22nd, 2021, when anontier.nl launched.  
+
+PGP Fingerprint: 9BC9 8B78 13F8 C45F 3C3F A7AE 4B00 DD6D CA18 23D6.  
+
+You are encouraged to save this public key. https://anontier.nl/pgp.txt 
+
+Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
+
+An archive of reports is available at: https://anontier.nl/archive.html
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+Since the creation of anontier.nl, 
+
+1) There have been no court orders given to anontier.nl.
+
+2) There have been no legal copyright-related complaints. 
+
+3) There have been no requests for any user information, legally valid or invalid.
+
+4) There have been no law enforcement takedown requests of any account, or any encrypted or unencrypted content.
+
+5) There have been no known security breaches or data leaks of anyone's information, legal or not.
+
+6) There has not been anything noteworthy not covered here that anontier.nl is not able to mention. 
+
+7) Warrant Canary: There have been no National Security Letters or gag-orders sent to anontier.nl. 
+
+
+New Updates: 
+Nothing new
+
+
+Donate with Monero and help keep anontier running: 43oT9FXujWHFqiWYzavqf6FS5KB5TGEkDPGj2nKMD7vm6zNTuLRkTSmLSUAjEL9nmLPsSvZtyuP68cmKoCAByce45AeH5oF
+
+Stats:
+Our Matrix server is currently using 61 GB of space total, including media, databases, and all other files including the OS.
+
+Contact @bosscat:anontier.nl on Matrix for any questions related to this report.
+
+Latest block: https://www.blockchain.com/btc/block/000000000000000000081948363eeab6fa00df0ea03b30ff276cb6013e8e30e6
+-----BEGIN PGP SIGNATURE-----
+
+iQHMBAEBCgA2FiEEm8mLeBP4xF88P6euSwDdbcoYI9YFAmDOR+IYHGFub250aWVy
+QHByb3Rvbm1haWwuY29tAAoJEEsA3W3KGCPWiaYL/RlqtM4W8m1MBKlOdzx8fuLu
+TT3JNM/fQd7DApaBgvsQE7QF1ZuQCcdqBuac2fLTV9oW7QcZb18XdH7O1jnKcuVc
+EbDB27noDgcrdhlL7xxPs2PILgZjPa9QmTGAK/A0UoMtH1TO8P6TZfkp/LCZAb4A
+KkzlQv1jmbT2yLYxAO2/o00f3bVhyfT0U6I2F9KH2IxOCt0VhuEvj7TY5vC6pXjZ
+/CURGIqdfdNyCKlxCr7hBjVHzipcHR0NhgMB9LzPrGU01gxbsMju3mzAsxc+Pv7O
+AEltcDesV5Q6sycb/YTUuBhjtuAp3boAJVGl17XjXmaFkCXnuZZSQaypaQbsUcQq
+z/KrvEBl7iferawT9uj/Ym8pLhcCd7yneLSs7tc2ub1RfhUnlBulg9IubTrhgebI
+lU4+39gp399HY6u+iNGAPRde2rd880O92yaN9vOX47wDMIQFRiKDdgrpXFXOa7s0
+xF/h6s7HJP7a4jdIvI7rr7nRCrMMW0vsU79Z1SV6Rg==
+=YvJ9
+-----END PGP SIGNATURE-----

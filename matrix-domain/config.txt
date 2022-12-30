@@ -1,0 +1,20 @@
+synapse/config/homeserver.yaml:
+ redaction_retention_period: 1m
+ user_ips_max_age: 1m
+
+synapse/config/matrix.anontier.nl.log.config:
+ loggers:
+     synapse:
+         level: CRITICAL
+
+     synapse.storage.SQL:
+         level: CRITICAL
+
+
+ root:
+     level: CRITICAL
+
+
+nginx.conf:
+ error_log /var/log/nginx/error.log crit;
+ access_log off;

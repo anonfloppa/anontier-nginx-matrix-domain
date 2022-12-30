@@ -1,0 +1,63 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+anontier.nl Canary and Transparency Report #21
+
+Unix Time: 1643606461
+UTC time: Mon January 31 2022 05:21:01
+
+This letter is digitally signed Mon, January 31, 2022 (UTC).
+
+
+This message is signed with the PGP key created April 22nd, 2021, when anontier.nl launched.  
+
+PGP Fingerprint: 9BC9 8B78 13F8 C45F 3C3F A7AE 4B00 DD6D CA18 23D6.  
+
+You are encouraged to save this public key. https://anontier.nl/pgp.txt 
+
+Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
+
+An archive of reports is available at: https://anontier.nl/archive.html
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+Since the creation of anontier, we have received the following:
+
+Number of court orders: 0
+Number of legal copyright-related complaints: 0
+Number of law enforcement requests or demands: 0
+Amount of information shared with a third-party: 0
+Number of known security breaches, including data leaks, of user data: 0
+
+Since the last canary, have the above numbers changed? No
+
+There has never been a National Security Letter or gag-order sent to anontier.nl. Nor is there anything important otherwise that anontier is being prevented from mentioning.
+
+
+New Updates: 
+- From about Wednesday to Friday this week we were down about 90% of the time due to a DDoS attack. We switched as soon as we could to a ddos protected ip. At no point during this attack was anyone's personal data compromised or at an increased risk of being compromised. Since switching, everything has been stable. We now have an external page on poast, https://poa.st/@anontier, for any emergency updates should our server be down for an extended period of time. 
+
+
+Donate with Monero and help keep anontier running: 8AuvnRiD9k2CYK2ZVkc1CDZF6VbKbRe5TUj3sywytLVH2yLV3w7U8DVJPnyu7FEWNHK2Zgi3157QPh2oyK3zZj4ZLXXAoY3
+
+Stats:
+Our Matrix server is currently using 991 GB of space total, including media, databases, and all other files including the OS.
+There are currently 2580 activated accounts.
+
+Contact @bosscat:anontier.nl on Matrix for any questions related to this report.
+
+Latest block: https://www.blockchain.com/btc/block/000000000000000000082eb04b7b19ec5cc58b014f5bf166e9f327864397c417
+-----BEGIN PGP SIGNATURE-----
+
+iQHMBAEBCAA2FiEEm8mLeBP4xF88P6euSwDdbcoYI9YFAmH3cpYYHGFub250aWVy
+QHByb3Rvbm1haWwuY29tAAoJEEsA3W3KGCPWQ6cL/R7vGJv1eoc0M4qidecYi5C1
+aW2RGyKzIHE99WDfmoxmS8c/+hJ8ka2rBGGptseZ+zHWTl/dzzzvV8OSKwlmw2f7
+/gvmHn+YOyFGzAM34WV/7TwtrQow9FVx7SBibGYhfgstrC+lO0ulXRcEcO+M7GZ0
+YaDKTnX2EQ2F0k5H1zP1Q+z71ZAi0OJj+mizpU+lZte5X0GT7ebpiXH9IVukeB4q
+1RTjvOBZOyQ2FNN6djqZ5Tus4LkVlqZmS87KmdeYAnnNhfKFAPXKPyzoyiuPYmuz
+/IU8yfimUV1WKrMUdewJc3BjtuY7PiMlmXKTTGpzO8ZqRuRwVz/mkEs6ReJrid+p
+BTQWgtD5vDDCZMtkIiNVC4oOuKR6JD1Nw/XP/ozZkmilKwr77DtFC5LbEJJk7PL/
+XLwIsVABrz/9sjnOn92E5ypf0gerpSpz3Ooq8hdbo+Y1Gl1EUDeDJke3OX2rfEdr
+aPMBfDrmvo8qzDWm6Uu9OHFhAy+k4RSEWCmeP5HDUw==
+=nqLp
+-----END PGP SIGNATURE-----

@@ -1,0 +1,61 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+anontier.nl Canary and Transparency Report #26
+
+Unix Time: 1657143246
+UTC time: Wednesday, July 6, 2022 9:34:06 PM
+
+This letter is digitally signed Wed, July 6, 2022 (UTC).
+
+This message is signed with the PGP key of @bigfloppa:anontier.nl created July 11th, 2021
+
+PGP Fingerprint: D50A 4172 8BEA 6233 BD2C  6464 1C81 5C61 2E40 ACB1
+
+You are encouraged to save this public key. https://anontier.nl/floppa_pgp.txt
+
+Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
+
+An archive of reports is available at: https://anontier.nl/archive.html
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+Since the creation of anontier, we have received the following:
+
+Number of court orders: 0
+Number of legal copyright-related complaints: 0
+Number of law enforcement requests or demands: 0
+Amount of information shared with a third-party: 0
+Number of known security breaches, including data leaks, of user data: 0
+
+Since the last canary, have the above numbers changed? No
+
+There has never been a National Security Letter or gag-order sent to anontier.nl. Nor is there anything important otherwise that anontier is being prevented from mentioning.
+
+
+New Updates:
+
+This is the first canary created by Big Floppa, one month after the last one that was created by Bosscat, who is currently unavailable.
+It is signed with a different key than the previous reports, the new key is available here: https://anontier.nl/floppa_pgp.txt.
+
+Donate with Monero and help keep anontier running: 46D46rbkS1UFLTQtCFCsQrcPW7rGn2nDE6JkXthzMtvSgPq1X3W5jBUVWGpjphWKf35P63wyBoyxRihvupT8RHa47MVLv5T
+
+Stats:
+Our Matrix server is currently using 2,175 GB of space total, including media, databases, and all other files including the OS.
+There are currently 4,807 activated accounts.
+
+Contact @bigfloppa:anontier.nl on Matrix for any questions related to this report.
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGTBAEBCgB9FiEE1QpBcovqYjO9LGRkHIFcYS5ArLEFAmLGBF9fFIAAAAAALgAo
+aXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEQ1
+MEE0MTcyOEJFQTYyMzNCRDJDNjQ2NDFDODE1QzYxMkU0MEFDQjEACgkQHIFcYS5A
+rLG8BAgAn5REOel9v1hd9JWiaLMH4acU+IkKE2hEQOl7oOnSJ0Gd0wuvESs8o4sc
+fQKcGw6UoPeW1gr0lsyW8JKvra8eZ4vhp0E4Buw9xWP6mAQY/iq3zNgmfQzMIoEY
+uvu3Ww5sBQavoDAxMnXgftVQly03O9zhqsUf0D9jKRp1Tzgv8YWvEPAQP/5uSUjm
+AeCZzQlcaxQZOLHDJn7BOssOV5mk2vfJ7Df8DV1M9o8Cabnf7AN796b2M+VuaG5I
+fs4oK895wJtDt3QvjOtsl7Cf24gO7zwcWc2CNGBKO6aJ51bhyDd98eObue0Cp5bE
+N3+ZB1hts4gGVj7wk51ZDa0nGCPneg==
+=s7O5
+-----END PGP SIGNATURE-----

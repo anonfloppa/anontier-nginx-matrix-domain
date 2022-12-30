@@ -1,0 +1,62 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+anontier.nl Canary and Transparency Report #22
+
+Unix Time: 1645758124
+UTC time: Fri February 25 2022 03:02:04
+
+This letter is digitally signed Fri, February 25, 2022 (UTC).
+
+
+This message is signed with the PGP key created April 22nd, 2021, when anontier.nl launched.  
+
+PGP Fingerprint: 9BC9 8B78 13F8 C45F 3C3F A7AE 4B00 DD6D CA18 23D6.  
+
+You are encouraged to save this public key. https://anontier.nl/pgp.txt 
+
+Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
+
+An archive of reports is available at: https://anontier.nl/archive.html
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+Since the creation of anontier, we have received the following:
+
+Number of court orders: 0
+Number of legal copyright-related complaints: 0
+Number of law enforcement requests or demands: 0
+Amount of information shared with a third-party: 0
+Number of known security breaches, including data leaks, of user data: 0
+
+Since the last canary, have the above numbers changed? No
+
+There has never been a National Security Letter or gag-order sent to anontier.nl. Nor is there anything important otherwise that anontier is being prevented from mentioning.
+
+
+New Updates: 
+I, Bosscat, will be away for a little over a week on vacation. Please DM anything urgent to @bigfloppa:anontier.nl or just email.
+
+Donate with Monero and help keep anontier running: 8AuvnRiD9k2CYK2ZVkc1CDZF6VbKbRe5TUj3sywytLVH2yLV3w7U8DVJPnyu7FEWNHK2Zgi3157QPh2oyK3zZj4ZLXXAoY3
+
+Stats:
+Our Matrix server is currently using 1,365 GB of space total, including media, databases, and all other files including the OS.
+There are currently 2,677 activated accounts.
+
+Contact @bosscat:anontier.nl on Matrix for any questions related to this report.
+
+Latest block: https://www.blockchain.com/btc/block/00000000000000000009e7397c8a791ff43371acc8de0963942c91c02a5f5e0e
+-----BEGIN PGP SIGNATURE-----
+
+iQHMBAEBCAA2FiEEm8mLeBP4xF88P6euSwDdbcoYI9YFAmIYSwIYHGFub250aWVy
+QHByb3Rvbm1haWwuY29tAAoJEEsA3W3KGCPW5lUMAJgydox0L/mi7gBzWh16H0ZZ
+O3Kta8jXUtjxMbZ8biCe7sZXdEcfrJOG0v7dUdnYCN8fz1YKDpHZzyxI2wcb4fCu
+zOe1rE6+QQmIha3DYWhxs2hWyo2vrMvFSi9QN0OYqc08W4ENegYKlyCRI/6R3zoF
+AcQYtd8fJRZMuYkZfNIiNwHne2Q46PwRxcCiwlrms6lR+lygdtLkXYe8hzGnR1Mi
++GmFYZ0SZACjwITzWuVqDc9C+NGM2jPuk87bk+ENk41M5Oh9THN0tPWHScX3iyoM
+f/FpCyVn+rXx+c2rudTysYLd5Y4dfyLXdLitLjcIecod6hY/izb5FvvnOfN4XGeJ
+QXcEugzwam/xMV8dsWQVxTdUIUXbPWKo02dv+unUFeIv21Cm2CZ0H5pPYnFYt27M
+I5dD9i5PaRMnofaZUxm7dVYCHY8/bFlmbZtFe6LecvqmZspy3BCa3jJXuYdBfEfr
+C2OKblTgAz4P8hton8aTSA9HoklPD0JszxdD8NhbLg==
+=Q7hN
+-----END PGP SIGNATURE-----

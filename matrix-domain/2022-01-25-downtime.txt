@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+https://anontier.nl/2022-01-25-downtime.txt
+
+We are experiencing an on and off DDoS attack, I set up a poast account for updates when we are offline.
+
+https://poa.st/@anontier
+http://6x7g7rr6fhdoszolkqkaittdr6qzgejjxoc42q4ceaph2xttmo5vgryd.onion/@anontier
+-----BEGIN PGP SIGNATURE-----
+
+iQHMBAEBCAA2FiEEm8mLeBP4xF88P6euSwDdbcoYI9YFAmHwZCQYHGFub250aWVy
+QHByb3Rvbm1haWwuY29tAAoJEEsA3W3KGCPWXSkL/2HUXn/DpzriG8/uRKOST8fa
+YE6LHAdnFLXHJJNbNnpD4eLiuqFFIOpLR+tVetgcX63+gK71HYzRAXOWfqv3Cm9u
+Dv4KCEcoFpmVHGzblC+pMr854U1tzUL83UOLMA4/O69GHK9U5paZZVlQS+3kh6+0
+eDuT8PIqK7WOBY/da0jMiyZD0C23w3gQf5cPBegb03qifWfem4v7LwlzNivAXHzN
+4WM62KP/ZR4sgN6CfOOiL8M9KqiTqPJW6aY/yqO3RjbXQLi0Z80JoKlJZyRMxynG
+2/iiffrUK+4p3tAqb5i43wApZEoyL2DQ2+T7BeYSrZGncbe1Q01AyjTVIn0owA/n
+wsZqclhB0gZBWj55SCJZUmOl2xkSPCLmhi5mSoM9Ewuqh/NO7NSzgQC+UP4dJjzy
+52nLV4QLuBPwn1s/pVMPhuVMRi65bCEC+GGdTyL88mXCWX62PRFVts8G+1aV6jXQ
+XTrLp3t7OQQ/hFuuZuZtbCdxzVdlCiArF7d5NDl+QQ==
+=HWFk
+-----END PGP SIGNATURE-----

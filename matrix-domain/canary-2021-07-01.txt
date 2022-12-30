@@ -1,0 +1,64 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+anontier.nl Canary and Transparency Report #9
+
+Unix Time: 1625107690
+UTC time: Thu July 01 2021 02:48:10
+
+This letter is digitally signed Thu, July 01, 2021 (UTC).
+
+This message is signed with the PGP key created April 22nd, 2021, when anontier.nl launched.  
+
+PGP Fingerprint: 9BC9 8B78 13F8 C45F 3C3F A7AE 4B00 DD6D CA18 23D6.  
+
+You are encouraged to save this public key. https://anontier.nl/pgp.txt 
+
+Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
+
+An archive of reports is available at: https://anontier.nl/archive.html
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+Since the creation of anontier.nl, 
+
+1) There have been no court orders given to anontier.nl.
+
+2) There have been no legal copyright-related complaints. 
+
+3) There have been no requests for any user information, legally valid or invalid.
+
+4) There have been no law enforcement takedown requests of any account, or any encrypted or unencrypted content.
+
+5) There have been no known security breaches or data leaks of anyone's information, legal or not.
+
+6) There has not been anything noteworthy not covered here that anontier.nl is not able to mention. 
+
+7) Warrant Canary: There have been no National Security Letters or gag-orders sent to anontier.nl. 
+
+
+New Updates: 
+Significant improvements in terms of performance. A complexity filter was set for rooms that are too complex. Large rooms with many unique homeservers can cause federating issues and it has made a noticable difference. This should not affect anything on the public room list. If something is being blocked that you feel should not, message @bosscat:anontier.nl. 
+
+Donate with Monero and help keep anontier running: 43oT9FXujWHFqiWYzavqf6FS5KB5TGEkDPGj2nKMD7vm6zNTuLRkTSmLSUAjEL9nmLPsSvZtyuP68cmKoCAByce45AeH5oF
+
+Stats:
+Our Matrix server is currently using 82 GB of space total, including media, databases, and all other files including the OS.
+
+Contact @bosscat:anontier.nl on Matrix for any questions related to this report.
+
+Latest block: https://www.blockchain.com/btc/block/0000000000000000000a1391e88148b175c073759cfa8b90e17cd68e7de4c398
+-----BEGIN PGP SIGNATURE-----
+
+iQHMBAEBCgA2FiEEm8mLeBP4xF88P6euSwDdbcoYI9YFAmDdLpIYHGFub250aWVy
+QHByb3Rvbm1haWwuY29tAAoJEEsA3W3KGCPW72AMAI9GPWr699uqgh5gk7rrChJz
+CanbDxWrHqq+JndNTQ7WNynHWdML+wkdMFKCTl1smbejFWgT2UERIpYFzfV+M0Qs
+hhv+E5X+KvwEAOO/OVhugC0W8xlOAYWwS33gVhC37lSFpkzmarr9Q1JeqbQj5EVv
+zez1RKaiXLMxEd2pSHbRI9Bwhdbtr+qIh/zmx1heW+kMt0XS+XayAX/iusVcWyJx
+fWixVwlxHYqm8AKkuONz1eBJYlqcl/ReOy4bl8921NfsAKvqh0BdqsBRM7RXAEvh
+MDuMzJz3pxquWqcd/9/nuZIoExwtY/K+EM29chBc/rKfzTW7GzWa+uJw7Zt6BcI2
+S2Mh7KMcY8Q/gFQ3dcajL8yQ1X0RVIYpdZAROpe9sGUJh/hfho6zqxzQlxR7atXr
+N3domqMumhhS0+dgwoFpcUD+nV9WBQmwgqCayePXkdjdR65W7n4ALWOK5HorgN1O
+2FYvDaP3Aw6tusMjtsV1hJ+RpXlw5IXTB49G+v+zpg==
+=zqmN
+-----END PGP SIGNATURE-----

@@ -1,0 +1,63 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+anontier.nl Canary and Transparency Report #13
+
+Unix Time: 1631405016
+UTC time: Sun September 12 2021 00:03:36
+
+This letter is digitally signed Sun, September 12, 2021 (UTC).
+
+This message is signed with the PGP key created April 22nd, 2021, when anontier.nl launched.  
+
+PGP Fingerprint: 9BC9 8B78 13F8 C45F 3C3F A7AE 4B00 DD6D CA18 23D6.  
+
+You are encouraged to save this public key. https://anontier.nl/pgp.txt 
+
+Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
+
+An archive of reports is available at: https://anontier.nl/archive.html
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+Since the creation of anontier, we have received the following:
+
+Number of court orders: 0
+Number of legal copyright-related complaints: 0
+Number of law enforcement requests or demands: 0
+Amount of information shared with a third-party: 0
+Number of known security breaches, including data leaks, of user data: 0
+
+Since the last canary, have the above numbers changed? No
+
+There has never been a National Security Letter or gag-order sent to anontier.nl. Nor is there anything important otherwise that anontier is being prevented from mentioning.
+
+
+New Updates: 
+With the last report, we discussed in the meta room some changes that would be in the next report to remove some of the vagueness. The new format is above. You can message @bosscat or mention it in the meta room if you have any concerns. 
+We have a new Monero address for donations below. 
+Files that have not been accessed for multiple weeks were purged last week due to an emergency lack of space. Deleting files that have not been accessed for 2 months will be the new standard.  You are welcome to request an exemption for the files you upload. 
+
+Donate with Monero and help keep anontier running: 8AuvnRiD9k2CYK2ZVkc1CDZF6VbKbRe5TUj3sywytLVH2yLV3w7U8DVJPnyu7FEWNHK2Zgi3157QPh2oyK3zZj4ZLXXAoY3
+
+Stats:
+Our Matrix server is currently using 185 GB of space total, including media, databases, and all other files including the OS.
+There are currently 914 activated accounts.
+
+Contact @bosscat:anontier.nl on Matrix for any questions related to this report.
+
+Latest block: https://www.blockchain.com/btc/block/00000000000000000003adf8b601f41f09a49e304808ce7af80bec38dcffd2e2
+-----BEGIN PGP SIGNATURE-----
+
+iQHMBAEBCgA2FiEEm8mLeBP4xF88P6euSwDdbcoYI9YFAmE9Rj8YHGFub250aWVy
+QHByb3Rvbm1haWwuY29tAAoJEEsA3W3KGCPW9CoL/0/YjgVoZnAO9mNatyzrXb4w
+vve6Naj4mirqZM+ZN60GMhdxxFd2PW+0UyF2GKjjzKjCt8siYoKhxpjgQLqqxhGS
+Dp18FaU7UeWTESKdvvFMCbmpODGHYD89wkrKKjKPRrkidMAxT0pSYHs9LoC2YJm/
+8WGu+MRVojL9FYCkjdl3TxzLcVK9SP76ZdNeERLxb1GF/SzEs18y0WD4cX3fwU6W
+/Bn0ubDsMUP9+CS8G2V6/NPVBVb9p7E0l3yhbbh92n01Ktr8XXVYMPCJiDmeRD6a
+ltxgL0jmv92+uUTc/ZikR+5bXBRLhN0ALAUScc7oVxf2Mpb+4u1VXs7u434KhHDV
+1SE3UdOMg6q6+ewGZPGGzQIsAIb/S4yZOS6ygH/4aigXLgBdQSeToO7Woa1idDvx
+jg1Ji3mh0xDFVmH0CpsOOsXagntaou0+b5b6mYToqgGEQBeUqW47TYvK0U9PXbsK
+GIwvQ5f/gwrJ2PpmIism+rgo0HNGVgWBoCGz7QBYLA==
+=VpXj
+-----END PGP SIGNATURE-----

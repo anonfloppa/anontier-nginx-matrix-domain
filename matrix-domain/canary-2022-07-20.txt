@@ -1,0 +1,64 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+anontier.nl Canary and Transparency Report #27
+
+Unix Time: 1658359444
+UTC time: Wednesday, July 20, 2022 11:24:04 PM
+
+This letter is digitally signed Wed, July 20, 2022 (UTC).
+
+This message is signed with the PGP key of @bigfloppa:anontier.nl created July 11th, 2021
+
+PGP Fingerprint: D50A 4172 8BEA 6233 BD2C  6464 1C81 5C61 2E40 ACB1
+
+You are encouraged to save this public key. https://anontier.nl/floppa_pgp.txt
+
+Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
+
+An archive of reports is available at: https://anontier.nl/archive.html
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+Since the creation of anontier, we have received the following:
+
+Number of court orders: 0
+Number of legal copyright-related complaints: 0
+Number of law enforcement requests or demands: 0
+Amount of information shared with a third-party: 0
+Number of known security breaches, including data leaks, of user data: 0
+
+Since the last canary, have the above numbers changed? No
+
+There has never been a National Security Letter or gag-order sent to anontier.nl. Nor is there anything important otherwise that anontier is being prevented from mentioning.
+
+
+New Updates:
+
+The server was shut down by our VPS for maintenance for 2 hours on July 17th at 10PM PST. It was not supposed to impact our services but it did. Here is the response from their customer support:
+
+Hello *******, apologies for the issues you've been experiencing,
+
+This could have affected your service in some way we haven't expected and which we are still investigating, but the maintenance should be complete at this point - if you continue to see any problems, please let us know
+
+
+Donate with Monero and help keep anontier running: 46D46rbkS1UFLTQtCFCsQrcPW7rGn2nDE6JkXthzMtvSgPq1X3W5jBUVWGpjphWKf35P63wyBoyxRihvupT8RHa47MVLv5T
+
+Stats:
+Our Matrix server is currently using 2,295 GB of space total, including media, databases, and all other files including the OS.
+There are currently 5,057 activated accounts.
+
+Contact @bigfloppa:anontier.nl on Matrix for any questions related to this report.
+-----BEGIN PGP SIGNATURE-----
+
+iQGTBAEBCgB9FiEE1QpBcovqYjO9LGRkHIFcYS5ArLEFAmLYkQhfFIAAAAAALgAo
+aXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEQ1
+MEE0MTcyOEJFQTYyMzNCRDJDNjQ2NDFDODE1QzYxMkU0MEFDQjEACgkQHIFcYS5A
+rLH9lQgAziogGrAjOec27X/nduv+J2J9cMDyC94N2b2kOFsJOg4kn7VI4kJjcFlM
+uTB5dLe1PWoxFGzDeTHKAlxFOQpx6oKDbnYYieDf4N17eBsmXtppH1ZsvxtqS0Pa
+6UkM313oUbikxq9inoXgbkf5cd1+OhUCSsIcycXz5ZUhAVdJjJgxPjxWmvzT47kR
+Ty7N9YJSatG+d/uepj6FddfZLDUXuFSWYAdkAPSYXKvZxhdzsp3uAeSMui5CjljV
+R7j37nGXrywmUCO7odJ+1FXxZhC27NZGhyRyVSGdD03CaDugfWFkNQoXgrZv3K17
+j2OTSiusOnJEtU95F3f/cRFhmivgGw==
+=iAGI
+-----END PGP SIGNATURE-----

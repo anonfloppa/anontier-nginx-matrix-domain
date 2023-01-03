@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+anontier.nl Canary and Transparency Report #34
+
+Unix Time: 1668992281
+UTC time: Friday, December 9, 2022 04:20:28 AM
+
+This letter is digitally signed Fri, December 9, 2022 (UTC).
+
+This message is signed with the PGP key of @bigfloppa:anontier.nl created July 11th, 2021
+
+PGP Fingerprint: D50A 4172 8BEA 6233 BD2C  6464 1C81 5C61 2E40 ACB1
+
+You are encouraged to save this public key. https://anontier.nl/floppa_pgp.txt
+
+Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
+
+An archive of reports is available at: https://anontier.nl/archive.html
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+Since the creation of anontier, we have received the following:
+
+Number of court orders: 0
+Number of legal copyright-related complaints: 0
+Number of law enforcement requests or demands: 0
+Amount of information shared with a third-party: 0
+Number of known security breaches, including data leaks, of user data: 0
+
+Since the last canary, have the above numbers changed? No
+
+There has never been a National Security Letter or gag-order sent to anontier.nl. Nor is there anything important otherwise that anontier is being prevented from mentioning.
+
+
+New Updates:
+
+Current Ansible playbook version: da82c3bd4f0be6c8250319225d02d486c581ff09
+
+Donate with Monero and help keep anontier running: 46D46rbkS1UFLTQtCFCsQrcPW7rGn2nDE6JkXthzMtvSgPq1X3W5jBUVWGpjphWKf35P63wyBoyxRihvupT8RHa47MVLv5T
+
+Stats:
+Our Matrix server is currently using 3,959 GB of space total, including media, databases, and all other files including the OS.
+There are currently 8,175 activated accounts.
+
+Contact @bigfloppa:anontier.nl on Matrix for any questions related to this report.
+-----BEGIN PGP SIGNATURE-----
+
+iQGTBAEBCgB9FiEE1QpBcovqYjO9LGRkHIFcYS5ArLEFAmOSwadfFIAAAAAALgAo
+aXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEQ1
+MEE0MTcyOEJFQTYyMzNCRDJDNjQ2NDFDODE1QzYxMkU0MEFDQjEACgkQHIFcYS5A
+rLH9RAgAxEz8KtQeuxNmpQyy+dqE0uQXeaPmBgjQEZlfsMd2Q5OZ///2WUibC0oB
+hSXIscXZRW9qPP4OHotZrCirXW15/xEmpqyQ35gMTaQiZ71SVkqvdyAspKqUHFS1
+4OaE3v41YOidcdvCMSL+a2dT5w9TfTdigNSCQ5423QvYzWZW845xAC/ZiIaisK8G
+fkTthbVfFTgGOU5PCNxmHQtklct84GSdRIYlI8izS0GZm1+z0w35Us7FloTop82I
+l68eynJ3mz1o4ATCTlcyKV5LwgRTS4RZHa4Fs9vfSlMZ9IJfCF384gqGvHe8mXnU
+G7Kl52hDE+vsdR7AoFT8DwgCRWLloA==
+=9LsH
+-----END PGP SIGNATURE-----

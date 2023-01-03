@@ -1,12 +1,12 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-anontier.nl Canary and Transparency Report #35
+anontier.nl Canary and Transparency Report #34
 
-Unix Time: 1672721928
-UTC time: Tuesday, January 3, 2023 4:58:48 AM
+Unix Time: 1668992281
+UTC time: Friday, December 9, 2022 04:20:28 AM
 
-This letter is digitally signed Tue, January 3, 2023 (UTC).
+This letter is digitally signed Fri, December 9, 2022 (UTC).
 
 This message is signed with the PGP key of @bigfloppa:anontier.nl created July 11th, 2021
 
@@ -35,23 +35,25 @@ There has never been a National Security Letter or gag-order sent to anontier.nl
 
 New Updates:
 
-Current Ansible playbook version: 73e689e48eeef12906478bc6190a5254193ad0c1
+Current Ansible playbook version: da82c3bd4f0be6c8250319225d02d486c581ff09
 
 Donate with Monero and help keep anontier running: 46D46rbkS1UFLTQtCFCsQrcPW7rGn2nDE6JkXthzMtvSgPq1X3W5jBUVWGpjphWKf35P63wyBoyxRihvupT8RHa47MVLv5T
 
 Stats:
-Our Matrix server is currently using 4,488 GB of space total, including media, databases, and all other files including the OS.
-There are currently 8,965 activated accounts.
+Our Matrix server is currently using 3,959 GB of space total, including media, databases, and all other files including the OS.
+There are currently 8,175 activated accounts.
+
+Contact @bigfloppa:anontier.nl on Matrix for any questions related to this report.
 -----BEGIN PGP SIGNATURE-----
 
-iQGTBAEBCgB9FiEE1QpBcovqYjO9LGRkHIFcYS5ArLEFAmOzt6FfFIAAAAAALgAo
+iQGTBAEBCgB9FiEE1QpBcovqYjO9LGRkHIFcYS5ArLEFAmOSwadfFIAAAAAALgAo
 aXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEQ1
 MEE0MTcyOEJFQTYyMzNCRDJDNjQ2NDFDODE1QzYxMkU0MEFDQjEACgkQHIFcYS5A
-rLE2+Af/ba/N+6WfgMqdbJl/K8BE7GXrbJncCXbU5zELNQBArpqntONVVbQfBpd9
-BceN60As8+k7HHBPYP+Do8x6hruo4eLSDCDIyeoPESLFZyyxHNW4XMqPCYph93ld
-G+5jVpvSaMJ6THfOJIoEMssYBOvomZzsXPxQbhOW+zbeKK8D9iwzrPlQDs3UYRmL
-mE1ed3G9ShIt7uQx0+jDo33zjaT7nBxkbecYHuTHpUchQSUoeyP7ts9/X11wKrP+
-lzHeICABVb8K1jOWKcvZWLcau4BTvIF4mWkdb2OUwwYD8wYMEuL/djhW8HU43XGK
-Aj8Vch6MJRkhQ715waItXGVIW/Xwdg==
-=lfUC
+rLH9RAgAxEz8KtQeuxNmpQyy+dqE0uQXeaPmBgjQEZlfsMd2Q5OZ///2WUibC0oB
+hSXIscXZRW9qPP4OHotZrCirXW15/xEmpqyQ35gMTaQiZ71SVkqvdyAspKqUHFS1
+4OaE3v41YOidcdvCMSL+a2dT5w9TfTdigNSCQ5423QvYzWZW845xAC/ZiIaisK8G
+fkTthbVfFTgGOU5PCNxmHQtklct84GSdRIYlI8izS0GZm1+z0w35Us7FloTop82I
+l68eynJ3mz1o4ATCTlcyKV5LwgRTS4RZHa4Fs9vfSlMZ9IJfCF384gqGvHe8mXnU
+G7Kl52hDE+vsdR7AoFT8DwgCRWLloA==
+=9LsH
 -----END PGP SIGNATURE-----

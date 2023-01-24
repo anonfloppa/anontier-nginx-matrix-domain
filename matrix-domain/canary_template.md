@@ -19,22 +19,22 @@ D50A 4172 8BEA 6233 BD2C  6464 1C81 5C61 2E40 ACB1
 
 ### You are encouraged to save this public key:
 
-https://anontier.nl/floppa_pgp.txt<br>
-http://23xxoehjnaqvifjn3e25o6bzmrr6bmzxdssgvboocuvz6n6j7qlfxdad.onion/floppa_pgp.txt<br>
-https://github.com/anonfloppa/anontier-nginx-matrix-domain/blob/main/matrix-domain/floppa_pgp.txt
+* https://anontier.nl/floppa_pgp.txt
+* http://23xxoehjnaqvifjn3e25o6bzmrr6bmzxdssgvboocuvz6n6j7qlfxdad.onion/floppa_pgp.txt
+* https://github.com/anonfloppa/anontier-nginx-matrix-domain/blob/main/matrix-domain/floppa_pgp.txt
 
 
 ### An archive of reports is available at these locations:
 
-https://anontier.nl/archive.html<br>
-http://23xxoehjnaqvifjn3e25o6bzmrr6bmzxdssgvboocuvz6n6j7qlfxdad.onion/archive.html<br>
-https://github.com/anonfloppa/anontier-nginx-matrix-domain/blob/main/matrix-domain/
+* https://anontier.nl/archive.html
+* http://23xxoehjnaqvifjn3e25o6bzmrr6bmzxdssgvboocuvz6n6j7qlfxdad.onion/archive.html
+* https://github.com/anonfloppa/anontier-nginx-matrix-domain/blob/main/matrix-domain/
 
 ### The latest canary is available at these locations:
 
-https://anontier.nl/canary.md<br>
-http://23xxoehjnaqvifjn3e25o6bzmrr6bmzxdssgvboocuvz6n6j7qlfxdad.onion/canary.md<br>
-https://github.com/anonfloppa/anontier-nginx-matrix-domain/blob/main/matrix-domain/canary.md
+* https://anontier.nl/canary.txt
+* http://23xxoehjnaqvifjn3e25o6bzmrr6bmzxdssgvboocuvz6n6j7qlfxdad.onion/canary.txt
+* https://github.com/anonfloppa/anontier-nginx-matrix-domain/blob/main/matrix-domain/canary.txt
 
 ----
 

@@ -2,9 +2,9 @@
 Hash: SHA512
 
 
-# anontier.nl Canary and Transparency Report #38
+# anontier.nl Canary and Transparency Report #37
 
-## This letter is digitally signed on UTC time: Mon 27 Feb 2023 12:56:03 AM UTC
+## This letter is digitally signed on UTC time: Mon 06 Feb 2023 03:35:09 AM UTC
 
 Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
 
@@ -57,7 +57,7 @@ There has never been a National Security Letter or gag-order sent to anontier.nl
 
 ### New Updates:
 
-Current Ansible playbook version: 058a54fd0593994b25b421ede595e8a6d07b8183
+Current Ansible playbook version: 2d7d5d4babd11d7ed70060b4d8d06b6113dc519a
 
 Donate with Monero and help keep anontier running: 46D46rbkS1UFLTQtCFCsQrcPW7rGn2nDE6JkXthzMtvSgPq1X3W5jBUVWGpjphWKf35P63wyBoyxRihvupT8RHa47MVLv5T
 
@@ -67,23 +67,23 @@ Donate with Monero and help keep anontier running: 46D46rbkS1UFLTQtCFCsQrcPW7rGn
 
 ```
 Filesystem      Size  Used Avail Use% Mounted on
-/dev/vda1       394G  191G  184G  51% /
-/dev/sdc1       503G  153G  325G  32% /database
-/dev/sda1      1007G  671G  286G  71% /extra-storage
-/dev/sdb1       4.0T  3.3T  530G  87% /matrix/synapse/storage
+/dev/vda1       394G  305G   70G  82% /
+/dev/sdc1       503G  198G  280G  42% /database
+/dev/sda1      1007G  644G  313G  68% /extra-storage
+/dev/sdb1       4.0T  3.1T  679G  83% /matrix/synapse/storage
 ```
 
-There are currently 10651 activated accounts.
+There are currently 9855 activated accounts.
 -----BEGIN PGP SIGNATURE-----
 
-iQGTBAEBCgB9FiEE1QpBcovqYjO9LGRkHIFcYS5ArLEFAmP8BwxfFIAAAAAALgAo
+iQGTBAEBCgB9FiEE1QpBcovqYjO9LGRkHIFcYS5ArLEFAmPgd0VfFIAAAAAALgAo
 aXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEQ1
 MEE0MTcyOEJFQTYyMzNCRDJDNjQ2NDFDODE1QzYxMkU0MEFDQjEACgkQHIFcYS5A
-rLHLAQf/cJXd7uUAZLAH7jN8r3KpU+xbXU3DspIznJcIJy726BdDTzTj1em/cN1m
-QLD7JVxaM8Tw7E9X/C7MfUyGYBb0GwUfxZpbN2hrydjOSa5YPbkJQekmJTZDI4HM
-0GUjZehdeMRA/z1iix6Gxrtb+cDjvAcbZChF+MfHK5D7LgSb+abE1RdG6hPR8Ubp
-v8uT43rsoCScerIsYl8X0wDriemF34i9uR7zJVgv/Sg6O6Zhb7JUUmvW7PQw0Ptj
-LAZka9XJbBH2aR5bfw/c6/JPEt9WWuF4a6vd28Dwv9p1A+82dyqzybBmRSUo8OXi
-9JY4FAmRZh9JjI5jcZMgzqmafclcBA==
-=qAyr
+rLHZkAf/amv4ouaYDVlQFKsHCoOhixKTe0cgxYBfiUZL0zuQ9awlVcSqnHA3qAm/
+w5vQEP6dHaWd9OxKVpzdJ0a+pwOaGru+p4pscpQbljNvRwO99SfF3ZuZOwpFW3+y
+Fu8p8whZqFIP+oEyFoLdSlDvo6OCZjQSTDJCgbDyWR5zJVix73AHpvo4tK3aEguH
+HMX6L8SCLVLU84DH4YDMqx8UqvuRw0FdDZO+MbP3ThYB/oc31KzaE9LumZHYvCub
+Yi78veRoLsBKBmyM3+DTKz5cMWSZhHJ+SvKSM3g9fxAcQN2NLR6lKhlrh9Iw3RJU
+wWHCryPrz38CFjOHC9VYSeY+JL4r1A==
+=qDxF
 -----END PGP SIGNATURE-----

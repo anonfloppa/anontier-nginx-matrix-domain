@@ -9,11 +9,14 @@
     When using the anontier.nl matrix server, the default config is used with the following changes:
     <p>
     <ul>
-            <li>IP address connection logs are purged after one minute</li>
-            <li>Redactions and message deletions are purged after one minute</li>
-            <li>Nginx access logs are disabled, and error logs are critical only.</li>
-            <li>Tor connections will always be allowed</li>
-	    <li>A list of these config changes are viewable <a href="/config.txt">here</a>.</li>
+      <li>There are triggers added to the postgresql database to prevent synapse from saving the IP address in the database. <a href="https://gist.github.com/anonfloppa/e397d7a2dda084fdcb13548a13ebc829">Link</a> </li>
+      <li>New devices created are named "new anontier device" by default</li>
+      <li>User agent is not saved in the database</li>
+      <li>Redactions and message deletions are purged after one minute</li>
+      <li>Nginx access logs are disabled, and error logs are critical only.</li>
+      <li>Nginx logs are not saved to disk (volatile)</li>
+      <li>IP addresses are not shown in the nginx logs</li>
+      <li>Tor connections will always be allowed</li>
     </ul>
     </p>
   </body>

@@ -2,9 +2,9 @@
 Hash: SHA512
 
 
-# anontier.nl Canary and Transparency Report #39
+# anontier.nl Canary and Transparency Report #38
 
-## This letter is digitally signed on UTC time: Wed 15 Mar 2023 12:25:13 AM UTC
+## This letter is digitally signed on UTC time: Mon 27 Feb 2023 12:56:03 AM UTC
 
 Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
 
@@ -49,7 +49,7 @@ D50A 4172 8BEA 6233 BD2C  6464 1C81 5C61 2E40 ACB1
 * Amount of information shared with a third-party: 0
 * Number of known security breaches, including data leaks, of user data: 0
 
-Since the last canary, have the above numbers changed? no.
+Since the last canary, have the above numbers changed? no
 
 There has never been a National Security Letter or gag-order sent to anontier.nl. Nor is there anything important otherwise that anontier is being prevented from mentioning.
 
@@ -57,7 +57,7 @@ There has never been a National Security Letter or gag-order sent to anontier.nl
 
 ### New Updates:
 
-Current Ansible playbook version: 1bdd3e2503e63adadac1960b34688db839a70a69
+Current Ansible playbook version: 058a54fd0593994b25b421ede595e8a6d07b8183
 
 Donate with Monero and help keep anontier running: 46D46rbkS1UFLTQtCFCsQrcPW7rGn2nDE6JkXthzMtvSgPq1X3W5jBUVWGpjphWKf35P63wyBoyxRihvupT8RHa47MVLv5T
 
@@ -67,24 +67,23 @@ Donate with Monero and help keep anontier running: 46D46rbkS1UFLTQtCFCsQrcPW7rGn
 
 ```
 Filesystem      Size  Used Avail Use% Mounted on
-/dev/vda1       394G  316G   59G  85% /
-/dev/sdc1       503G   31G  447G   7% /database
-/dev/sda1      1007G  544G  413G  57% /extra-storage
-/dev/sdb1       4.0T  3.1T  722G  82% /matrix/synapse/storage
+/dev/vda1       394G  191G  184G  51% /
+/dev/sdc1       503G  153G  325G  32% /database
+/dev/sda1      1007G  671G  286G  71% /extra-storage
+/dev/sdb1       4.0T  3.3T  530G  87% /matrix/synapse/storage
 ```
 
-There are currently 11,125 activated accounts.
-
+There are currently 10651 activated accounts.
 -----BEGIN PGP SIGNATURE-----
 
-iQGTBAEBCgB9FiEE1QpBcovqYjO9LGRkHIFcYS5ArLEFAmQREZRfFIAAAAAALgAo
+iQGTBAEBCgB9FiEE1QpBcovqYjO9LGRkHIFcYS5ArLEFAmP8BwxfFIAAAAAALgAo
 aXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEQ1
 MEE0MTcyOEJFQTYyMzNCRDJDNjQ2NDFDODE1QzYxMkU0MEFDQjEACgkQHIFcYS5A
-rLG7Ugf8DZmMktZzOffJCHcvJK13euTETI4igApgA5HJYCZNpzh1Wr+RsRlacqgc
-NOvGpwKtiu77ws81dtj+mfaHXCWpU92hhpzq3ozyIRfMZTqfian5lgrGL/qb8CsE
-EwKAKT08D28DrkVb7MFSHMD1IbYY8pqHOiujwRn+buYbVnvIBqhbhPqaPK8hMNdx
-M0cvlVyOK5lSyDaaJPPhRHOlrUf4lJzCvlMJ9hKb06bSS8DvV3cJSK0idqgEQShY
-7o9gq3K7FHJZgT5YoIJUFlc8wS3Do3nXyB9YjdZa1o9QIkS/3VJgLVsbK8hqUYSk
-u1gPipuBKA23TJuty6dRu6NBxSAMtw==
-=z4As
+rLHLAQf/cJXd7uUAZLAH7jN8r3KpU+xbXU3DspIznJcIJy726BdDTzTj1em/cN1m
+QLD7JVxaM8Tw7E9X/C7MfUyGYBb0GwUfxZpbN2hrydjOSa5YPbkJQekmJTZDI4HM
+0GUjZehdeMRA/z1iix6Gxrtb+cDjvAcbZChF+MfHK5D7LgSb+abE1RdG6hPR8Ubp
+v8uT43rsoCScerIsYl8X0wDriemF34i9uR7zJVgv/Sg6O6Zhb7JUUmvW7PQw0Ptj
+LAZka9XJbBH2aR5bfw/c6/JPEt9WWuF4a6vd28Dwv9p1A+82dyqzybBmRSUo8OXi
+9JY4FAmRZh9JjI5jcZMgzqmafclcBA==
+=qAyr
 -----END PGP SIGNATURE-----

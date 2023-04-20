@@ -1,0 +1,81 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+
+# anontier.nl Canary and Transparency Report #41
+
+## This letter is digitally signed on UTC time: Thu 20 Apr 2023 12:28:26 AM UTC
+
+Roughly every week, a new Transparency report will be created. If it has been more than two weeks since the last signed message, unless otherwise noted, you should assume something is wrong. You can also request a signed message personally any day I'm on.
+
+Delays are always possible, like with major holidays or vacations. Those will be mentioned in the previous report with when to expect the next report.
+
+- ----
+
+### PGP key owner:
+
+@bigfloppa:anontier.nl created July 11th, 2021
+
+### PGP Fingerprint:
+
+D50A 4172 8BEA 6233 BD2C  6464 1C81 5C61 2E40 ACB1
+
+### You are encouraged to save this public key:
+
+* https://github.com/anonfloppa/anontier-nginx-matrix-domain/blob/main/matrix-domain/floppa_pgp.txt
+
+
+### An archive of reports is available at these locations:
+
+* https://github.com/anonfloppa/anontier-nginx-matrix-domain/blob/main/matrix-domain/
+
+### The latest canary is available at these locations:
+
+* https://github.com/anonfloppa/anontier-nginx-matrix-domain/blob/main/matrix-domain/canary-2023-04-20.txt
+
+- ----
+
+### Since the creation of anontier, we have received the following:
+
+* Number of court orders: 0
+* Number of legal copyright-related complaints: 0
+* Number of law enforcement requests or demands: 0
+* Amount of information shared with a third-party: 0
+* Number of known security breaches, including data leaks, of user data: 0
+
+Since the last canary, have the above numbers changed? NO
+
+There has never been a National Security Letter or gag-order sent to anontier.nl. Nor is there anything important otherwise that anontier is being prevented from mentioning.
+
+- ----
+
+### New Updates:
+
+This is the last anontier canary.
+
+### Stats:
+
+#### Disk usage:
+
+```
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/vda1       394G  357G   18G  96% /
+/dev/sdc1       503G   17G  461G   4% /database
+/dev/sda1      1007G  574G  382G  61% /extra-storage
+/dev/sdb1       4.0T  2.5T  1.4T  65% /matrix/synapse/storage
+```
+
+There were 11,867 activated accounts before the shutdown.
+-----BEGIN PGP SIGNATURE-----
+
+iQGTBAEBCgB9FiEE1QpBcovqYjO9LGRkHIFcYS5ArLEFAmRAiKtfFIAAAAAALgAo
+aXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEQ1
+MEE0MTcyOEJFQTYyMzNCRDJDNjQ2NDFDODE1QzYxMkU0MEFDQjEACgkQHIFcYS5A
+rLEpaQgAmLTYWBSUE1g6RhNYaiy7SuY8eYvOaLEMK9O++QCxhOhz4R5ZHKKrra0l
+wSY7fsvIJ9FVh0MwRMJ5KDSS5VO2InZT1EPp7b7g1Q1ezzrHqE6qFIZAOC7iritp
+NkpL5LSytIc/fDN5KnS7I4rPbhOEPjzZakufgjRLpW3C3FrXmjjXHdJ+3Sq4ZCfc
+4H/vlUbHAFMzrey16BHw/Kldnw5n63LHjOcqSHq4tpHubkAwqwVAONP0hO0jixMn
+miysDJ/V+ZF0Kp3TuFHOHIcbWf7UcwHPHpe/wyeSoUVNIMM5TAZzkr2vSxsmEu4Q
+mP7SjuGcwNbXnwQrPkPymiaJ7J6yZA==
+=F1V7
+-----END PGP SIGNATURE-----
